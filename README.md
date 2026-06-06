@@ -81,4 +81,4 @@ calculadora-mobile/
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.![Uploading WhatsApp Image 2026-06-06 at 18.46.46.jpeg…]()
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
