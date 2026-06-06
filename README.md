@@ -75,8 +75,8 @@ calculadora-mobile/
 
 ## 📸 Screenshots
 
-> ![Calculadora Mobile](Screenshot-calculator.png)
-> ![Calculadora Mobile](Screenshot-calculator-historic.png)
+> ![Calculadora Mobile](Screenshot-calculator.JPEG)
+> ![Calculadora Mobile](Screenshot-calculator-historic.JPEG)
 
 ---
 
